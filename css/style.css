@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: antiquewhite;
+
+}
+.social-links{
+    background-color: #000;
+    width: 1000px;
+}
+
+.social-links a{
+    text-decoration: none;
+    color: #444445;
+}
